@@ -25,6 +25,11 @@ To start a SOC Analyst career and build expertise in cybersecurity operations an
 | ------------------------ | ---------------------------- |
 | MYDFIR Elastic Challenge |    MYDFIR Elastic Challenge  |
 
+## 🚀 Investigation:
+|    Investigation Name    |      Associated Project      |
+| ------------------------ | ---------------------------- |
+| SPLUNK 101               |     Capstone - Challenge     |
+
 ## Certifications
 <a href="https://www.credly.com/badges/07a63683-2afb-4d87-9889-5d7234621c24/public_url" target="_blank">
   <img src="https://shields.io" alt="CompTIA Security+" width="140" height="40"/></a>
