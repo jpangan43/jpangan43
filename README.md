@@ -1,135 +1,110 @@
-```html
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">SOC Analyst | System Administrator | Cybersecurity Enthusiast</h3>
+# Jayson Pangan
+<a href="https://www.linkedin.com/in/jayson-pangan-b40a8153" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=SOC+Analyst;SC-200+Certified;CompTIA+Security%2B;System+Administrator;Threat+Hunter+in+Training">
+### Aspiring SOC Analyst | System Administrator
+
+Aspiring SOC Analyst with a background in IT and System Administration. Passionate about cybersecurity, threat detection, and incident response. Currently building hands-on skills using security tools and home labs.
+
+---
+
+## 👨‍💻 About Me
+
+* 🛡️ CompTIA Security+ Certified
+* 🛡️ Microsoft SC-200 Certified
+* 💻 5+ Years of IT & System Administration Experience
+* 🔍 Interested in Threat Hunting, Detection Engineering, and Incident Response
+* 📍 Doha, Qatar
+
+---
+
+## ⚡ Technical Skills
+
+### Security Operations
+
+* Security Monitoring
+* Incident Response
+* Log Analysis
+* IOC Investigation
+* MITRE ATT&CK Mapping
+* Alert Triage
+
+### SIEM & Security Tools
+
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* Wazuh
+* Splunk
+* ELK Stack
+
+### Cloud & Identity
+
+* Microsoft Azure
+* Microsoft Entra ID
+* Azure Active Directory
+* Microsoft Defender for Cloud
+
+### Networking
+
+* TCP/IP
+* DNS
+* DHCP
+* VLANs
+* Routing & Switching
+* Wireshark
+
+### Operating Systems
+
+* Windows Server
+* Windows 10/11
+* Linux (Ubuntu, Kali Linux)
+
+---
+
+## 🏆 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red">
+  <img src="https://img.shields.io/badge/Microsoft-SC--200-blue">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4">
+  <img src="https://img.shields.io/badge/Microsoft-MS--102-2F2F2F">
 </p>
 
-<hr>
+* CompTIA Security+
+* Microsoft Certified: Security Operations Analyst Associate (SC-200)
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft 365 Certified: Enterprise Administrator Expert (MS-102)
 
-<h2>👨‍💻 About Me</h2>
+---
 
-<ul>
-  <li>🛡️ CompTIA Security+ Certified</li>
-  <li>🛡️ Microsoft SC-200 Certified</li>
-  <li>🌐 Currently studying CCNA</li>
-  <li>💻 5+ Years of IT & System Administration Experience</li>
-  <li>🔎 Interested in Threat Hunting, Detection Engineering, and Incident Response</li>
-  <li>📍 Doha, Qatar</li>
-</ul>
+## 🚀 Featured Projects
 
-<hr>
+#### SOC Analyst Lab — Splunk Investigation (Project)
 
-<h2>⚡ Technical Skills</h2>
+• Designed and executed Splunk searches to identify brute-force RDP, malicious PowerShell, and beaconing C2 traffic.  
+• Correlated multi-source telemetry (Windows Security, Sysmon, Network) to build a timeline of compromise.  
+• Documented findings and recommended remediation actions in an analyst-style incident report.
 
-<h3>Security Operations</h3>
+---
 
-<p>
-Security Monitoring • Incident Response • Threat Hunting • Log Analysis • IOC Investigation • MITRE ATT&CK • Alert Triage
-</p>
+## 📚 Education/Training
 
-<h3>SIEM & Security Tools</h3>
+#### Splunk 101 for SOC Analysts — MYDFIR
 
-<p>
-Microsoft Sentinel • Microsoft Defender XDR • Wazuh • Security Onion • Splunk • Zeek • Suricata • ELK Stack
-</p>
+Hands-on course covering Splunk deployment, log ingestion, field extraction, dashboards, alerts, and end-to-end SOC investigation.
 
-<h3>Cloud & Identity</h3>
+• Built and queried a live Splunk Enterprise instance using Windows Security, Sysmon, and network telemetry.  
+• Created dashboards and scheduled reports to detect brute-force → PowerShell Execution → C2 activity.  
+• Completed a full incident-response capstone investigation aligned with MITRE ATT&CK.
 
-<p>
-Microsoft Azure • Microsoft Entra ID • Azure Active Directory • Defender for Cloud
-</p>
+---
 
-<h3>Networking</h3>
+## 📫 Connect With Me
 
-<p>
-TCP/IP • DNS • DHCP • VLANs • Routing & Switching • Wireshark
-</p>
+* GitHub: https://github.com/jpangan43
+* LinkedIn: https://linkedin.com/in/jayson-panganb40a8153 
 
-<hr>
+---
 
-<h2>🏆 Certifications</h2>
-
-<ul>
-  <li>CompTIA Security+</li>
-  <li>Microsoft SC-200 Security Operations Analyst Associate</li>
-</ul>
-
-<hr>
-
-<h2>🚀 SOC Portfolio Projects</h2>
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
-
-<tr>
-<td>Credential Stuffing Investigation</td>
-<td>Investigated suspicious login attempts using Microsoft Defender XDR and KQL.</td>
-</tr>
-
-<tr>
-<td>Suspicious Office Outbound Connection</td>
-<td>Performed OSINT investigation and mapped findings to MITRE ATT&CK.</td>
-</tr>
-
-<tr>
-<td>PowerShell & Python Activity Analysis</td>
-<td>Threat hunting investigation involving suspicious scripting activity.</td>
-</tr>
-
-<tr>
-<td>Wazuh SOC Lab</td>
-<td>Built a detection and monitoring lab using Wazuh, Kali Linux, and Windows 10.</td>
-</tr>
-
-</table>
-
-<hr>
-
-<h2>📚 Currently Learning</h2>
-
-<ul>
-  <li>Detection Engineering</li>
-  <li>Advanced KQL</li>
-  <li>Threat Intelligence</li>
-  <li>Network Security Monitoring</li>
-  <li>Malware Analysis</li>
-  <li>Cisco CCNA</li>
-</ul>
-
-<hr>
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-<hr>
-
-<h2>📫 Connect With Me</h2>
-
-<p>
-LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN <br>
-GitHub: https://github.com/YOUR_USERNAME
-</p>
-
-<hr>
-
-<p align="center">
-<i>"Continuous learning and hands-on practice are the foundation of cybersecurity."</i>
-</p>
-```
+> "Continuous learning and hands-on practice are the foundation of cybersecurity."
