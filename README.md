@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-### Aspiring SOC Analyst | System Administrator
+### Aspiring SOC Analyst
 
 Aspiring SOC Analyst with a background in IT and System Administration. Passionate about cybersecurity, threat detection, and incident response. Currently building hands-on skills using security tools and home labs.
 
